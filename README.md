@@ -1,2 +1,3 @@
-# Source code for The Qsim conference submission on the topic 
-## Exploring Dynamic Circuits through Gibbs Free Energy Calculations via Variational Quantum Algorithms
+# Exploring Dynamic Circuits through Gibbs Free Energy Calculations via Variational Quantum Algorithms
+
+`pip install -r requirements.txt`
