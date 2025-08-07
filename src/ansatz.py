@@ -1,4 +1,4 @@
-# Defien free energy calculation to be minimize based on ansatz parameters
+# Define free energy calculation to be minimize based on ansatz parameters
 def cost_func(params, ansatz, tr_rho2, tr_rho3, hamiltonian, beta, estimator, sampler):
     free_energy = 0
 
