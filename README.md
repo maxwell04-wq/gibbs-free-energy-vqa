@@ -5,5 +5,5 @@
 - Run the following command in the terminal to install the dependencies:
   
    ```pip install -r requirements.txt```
-- The Jupyter Notebooks are available in the `sopurce_code` folder.
+- The Jupyter Notebooks are available in the `jupyter_notebooks` folder.
 - The helper functions used in the project are available in the `src` folder.
