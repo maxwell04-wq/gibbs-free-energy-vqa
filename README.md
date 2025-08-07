@@ -2,4 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12.10-blue.svg) ![Qiskit](https://img.shields.io/badge/Qiskit-1.1.0-green)   
 
-`pip install -r requirements.txt`
+- Run the following command in the terminal to install the dependencies:
+  
+   ```pip install -r requirements.txt```
+- The Jupyter Notebooks are available in the `sopurce_code` folder.
+- The helper functions used in the project are available in the `src` folder.
